@@ -1,0 +1,8 @@
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.Common\bin\Debug\netstandard2.0\TestSolution.Common.deps.json
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.Common\bin\Debug\netstandard2.0\TestSolution.Common.dll
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.Common\bin\Debug\netstandard2.0\TestSolution.Common.pdb
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.Common\obj\Debug\netstandard2.0\TestSolution.Common.csproj.CoreCompileInputs.cache
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.Common\obj\Debug\netstandard2.0\TestSolution.Common.AssemblyInfoInputs.cache
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.Common\obj\Debug\netstandard2.0\TestSolution.Common.AssemblyInfo.cs
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.Common\obj\Debug\netstandard2.0\TestSolution.Common.dll
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.Common\obj\Debug\netstandard2.0\TestSolution.Common.pdb

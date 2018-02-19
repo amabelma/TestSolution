@@ -1,0 +1,10 @@
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API\bin\Debug\netcoreapp2.0\TestSolution.API.deps.json
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API\bin\Debug\netcoreapp2.0\TestSolution.API.runtimeconfig.json
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API\bin\Debug\netcoreapp2.0\TestSolution.API.runtimeconfig.dev.json
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API\bin\Debug\netcoreapp2.0\TestSolution.API.dll
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API\bin\Debug\netcoreapp2.0\TestSolution.API.pdb
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API\obj\Debug\netcoreapp2.0\TestSolution.API.csproj.CoreCompileInputs.cache
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API\obj\Debug\netcoreapp2.0\TestSolution.API.AssemblyInfoInputs.cache
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API\obj\Debug\netcoreapp2.0\TestSolution.API.AssemblyInfo.cs
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API\obj\Debug\netcoreapp2.0\TestSolution.API.dll
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API\obj\Debug\netcoreapp2.0\TestSolution.API.pdb

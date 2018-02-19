@@ -1,0 +1,13 @@
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API.UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API.UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API.UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API.UnitTests\bin\Debug\netcoreapp2.0\TestSolution.API.UnitTests.deps.json
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API.UnitTests\bin\Debug\netcoreapp2.0\TestSolution.API.UnitTests.runtimeconfig.json
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API.UnitTests\bin\Debug\netcoreapp2.0\TestSolution.API.UnitTests.runtimeconfig.dev.json
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API.UnitTests\bin\Debug\netcoreapp2.0\TestSolution.API.UnitTests.dll
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API.UnitTests\bin\Debug\netcoreapp2.0\TestSolution.API.UnitTests.pdb
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API.UnitTests\obj\Debug\netcoreapp2.0\TestSolution.API.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API.UnitTests\obj\Debug\netcoreapp2.0\TestSolution.API.UnitTests.AssemblyInfoInputs.cache
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API.UnitTests\obj\Debug\netcoreapp2.0\TestSolution.API.UnitTests.AssemblyInfo.cs
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API.UnitTests\obj\Debug\netcoreapp2.0\TestSolution.API.UnitTests.dll
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.API.UnitTests\obj\Debug\netcoreapp2.0\TestSolution.API.UnitTests.pdb
