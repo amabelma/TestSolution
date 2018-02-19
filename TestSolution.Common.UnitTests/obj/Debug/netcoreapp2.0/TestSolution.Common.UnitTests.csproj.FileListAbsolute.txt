@@ -11,3 +11,5 @@ C:\Users\mark.amabeli\Desktop\TestService\TestSolution.Common.UnitTests\obj\Debu
 C:\Users\mark.amabeli\Desktop\TestService\TestSolution.Common.UnitTests\obj\Debug\netcoreapp2.0\TestSolution.Common.UnitTests.AssemblyInfo.cs
 C:\Users\mark.amabeli\Desktop\TestService\TestSolution.Common.UnitTests\obj\Debug\netcoreapp2.0\TestSolution.Common.UnitTests.dll
 C:\Users\mark.amabeli\Desktop\TestService\TestSolution.Common.UnitTests\obj\Debug\netcoreapp2.0\TestSolution.Common.UnitTests.pdb
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.Common.UnitTests\bin\Debug\netcoreapp2.0\TestSolution.Common.dll
+C:\Users\mark.amabeli\Desktop\TestService\TestSolution.Common.UnitTests\bin\Debug\netcoreapp2.0\TestSolution.Common.pdb

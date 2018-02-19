@@ -10,7 +10,8 @@
         "dependencies": {
           "MSTest.TestAdapter": "1.1.18",
           "MSTest.TestFramework": "1.1.18",
-          "Microsoft.NET.Test.Sdk": "15.3.0-preview-20170628-02"
+          "Microsoft.NET.Test.Sdk": "15.3.0-preview-20170628-02",
+          "TestSolution.Common": "1.0.0"
         },
         "runtime": {
           "TestSolution.Common.UnitTests.dll": {}
@@ -988,6 +989,11 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "TestSolution.Common/1.0.0": {
+        "runtime": {
+          "TestSolution.Common.dll": {}
+        }
       }
     }
   },
@@ -1486,6 +1492,11 @@
       "sha512": "sha512-Zm2BdeanuncYs3NhCj4c9e1x3EXFzFBVv2wPEc/Dj4ZbI9R8ecLSR5frAsx4zJCPBtKQreQ7Q/KxJEohJZbfzA==",
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
+    },
+    "TestSolution.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

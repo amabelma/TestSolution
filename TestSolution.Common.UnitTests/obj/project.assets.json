@@ -1600,6 +1600,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "TestSolution.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TestSolution.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestSolution.Common.dll": {}
+        }
       }
     }
   },
@@ -5610,6 +5620,11 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "TestSolution.Common/1.0.0": {
+      "type": "project",
+      "path": "../TestSolution.Common/TestSolution.Common.csproj",
+      "msbuildProject": "../TestSolution.Common/TestSolution.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5617,7 +5632,8 @@
       "MSTest.TestAdapter >= 1.1.18",
       "MSTest.TestFramework >= 1.1.18",
       "Microsoft.NET.Test.Sdk >= 15.3.0-preview-20170628-02",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "TestSolution.Common >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5649,7 +5665,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mark.amabeli\\Desktop\\TestService\\TestSolution.Common\\TestSolution.Common.csproj": {
+              "projectPath": "C:\\Users\\mark.amabeli\\Desktop\\TestService\\TestSolution.Common\\TestSolution.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
